@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gimmedafacts/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gimmedafacts/static/js/main.529f5cf4.chunk.js",
+    "main.js.map": "/gimmedafacts/static/js/main.529f5cf4.chunk.js.map",
+    "runtime-main.js": "/gimmedafacts/static/js/runtime-main.a09f9410.js",
+    "runtime-main.js.map": "/gimmedafacts/static/js/runtime-main.a09f9410.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gimmedafacts/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5584c936.chunk.js": "/gimmedafacts/static/js/2.5584c936.chunk.js",
+    "static/js/2.5584c936.chunk.js.map": "/gimmedafacts/static/js/2.5584c936.chunk.js.map",
+    "index.html": "/gimmedafacts/index.html",
+    "precache-manifest.b7723568c34409ebcbff744f3a23a922.js": "/gimmedafacts/precache-manifest.b7723568c34409ebcbff744f3a23a922.js",
+    "service-worker.js": "/gimmedafacts/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gimmedafacts/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/gimmedafacts/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5584c936.chunk.js.LICENSE.txt": "/gimmedafacts/static/js/2.5584c936.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a09f9410.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5584c936.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.529f5cf4.chunk.js"
+  ]
+}
